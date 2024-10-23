@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Starfilm: Movie Reviews</h1>
-  <img src="assets/preview.png" width="600">
+  <img src="assets/preview.png" width="500">
 </div>
 
 Starfilm hadir sebagai sarana untuk para penggemar film di manapun berada, dengan berbasis web interaktif.  Starfilm  memungkinkan user untuk mencari film sesuai dengan keinginan mereka serta memberikan user kesempatan untuk menilai dan mereview berbagai film dari seluruh dunia.
